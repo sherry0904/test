@@ -1,1 +1,1 @@
-HTML
+ <audio id="ID004" source src="song/BTS-00_00.mp3"></audio><button onclick="playAudio('ID004')" type="button">play4</button> 
